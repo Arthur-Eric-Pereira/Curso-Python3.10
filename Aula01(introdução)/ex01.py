@@ -17,4 +17,4 @@ COMANDO:
     
 '''
 
-print(f'\033[1;36;43m->Testando as cores no Python...\033[m')
+print(f'\033[1;33;43m->Testando as cores no Python...\033[m')
