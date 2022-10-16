@@ -1,6 +1,8 @@
 mensagem = 'Eaeeehh! :)'
 print(mensagem)
 
+print(f'{mensagem:=^30}')
+
 print('___'*12)
 print('\_/'*12)
 print('=-='*12)
