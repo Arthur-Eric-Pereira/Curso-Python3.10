@@ -1,4 +1,4 @@
-# ex009: Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+# Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 
 n = int(input("Informe um número e veja sua tabuada >  "))
 print('-'*20)

@@ -1,4 +1,4 @@
-#Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+# Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
 #   --> formula:  F = (9 * C + 160) / 5
 titulo = 'CONVERSOR DE TEMPERATURAS'
 print(f'\033[4;31m{titulo:-^50}\033[m')
